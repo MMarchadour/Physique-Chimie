@@ -1,13 +1,14 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
+# SITE EN CONSTRUCTION
 
-> Pour voir le code MarkDown sous jacent, cliquer sur le crayon en haut à droite.
+# SITE DE PHYSIQUE-CHIMIE - M.MARCHADOUR
+## Cours de seconde
+Le livre scolaire : lien vers [lelivrescolaire.fr](https://www.lelivrescolaire.fr/manuels/physique-chimie-2de-2019)
 
-# Voici un titre de niveau 1
-## Et voici un titre de niveau 2
-Ceci est un paragraphe.  
-Avec un retour à la ligne sans saut de ligne.
+## Cours de spécialité première
+Le livre scolaire : lien vers [lelivrescolaire.fr](https://www.lelivrescolaire.fr/manuels/physique-chimie-1re-2019)
 
-Et avec un retour à la ligne avec saut de ligne.
+## Cours de spécialité Terminale
+Le livre Hachette : lien vers [Hachette](https://www.calameo.com/read/004822953d3b7e905dd8f?authid=uB1V9Ecfgy00)
 
 ## Un lien :
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
