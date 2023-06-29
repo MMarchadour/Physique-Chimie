@@ -4,6 +4,8 @@
 ## Cours de seconde
 Le livre scolaire : lien vers [lelivrescolaire.fr](https://www.lelivrescolaire.fr/manuels/physique-chimie-2de-2019)
 
+Cours : lien vers le [cours](./coursseconde.md)
+
 [Chapitre1P1](./Chapitre_1P1.md)
 
 
