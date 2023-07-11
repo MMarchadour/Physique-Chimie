@@ -18,5 +18,5 @@ Activité 1 : [Corps purs et mélanges](2Ch1P1_Activite1.pdf)
 
 #### Travaux Pratiques
 
-TP 1 : [Problème d'étiquettes](2Ch1P1_TP1.pdf) 
+TP 1 : [Problème d'étiquettes](./cours/seconde/2Ch1P1_TP1.pdf) 
 
