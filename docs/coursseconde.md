@@ -22,8 +22,12 @@ TP 1 : [Problème d'étiquettes](./cours/seconde/2Ch1P1_TP1.pdf)
 
 TP 2 : [Stage dans l'agroalimentaire](./cours/seconde/2Ch1P1_TP2.pdf) 
 
+#### Exercices
+
+[Exercices](./cours/seconde/2Ch1P1_Exercices.pdf)
+
 #### Fiche d'objectifs
 
-Objectifs du [chapitre 1](./cours/seconde/2Ch1P1_objectifs.pdf)
+[Objectifs](./cours/seconde/2Ch1P1_objectifs.pdf)
 
 
