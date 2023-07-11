@@ -6,14 +6,15 @@ Le livre scolaire : lien vers [lelivrescolaire.fr](https://www.lelivrescolaire.f
 
 Cours : lien vers le [cours](./coursseconde.md)
 
-[Chapitre1P1](./Chapitre_1P1.md)
-
-
 ## Cours de spécialité première
 Le livre scolaire : lien vers [lelivrescolaire.fr](https://www.lelivrescolaire.fr/manuels/physique-chimie-1re-2019)
 
+Cours : lien vers le [cours](./courspremiere.md)
+
 ## Cours de spécialité Terminale
 Le livre Hachette : lien vers [Hachette](https://www.calameo.com/read/004822953d3b7e905dd8f?authid=uB1V9Ecfgy00)
+
+Cours : lien vers le [cours](./coursterminale.md)
 
 ## Un lien :
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
