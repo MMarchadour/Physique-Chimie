@@ -23,6 +23,11 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - La page d'accueil : index.md
+  - Cours de sciences physiques :
+      Seconde : coursseconde.md
+      Spécialité Première : courspremiere.md
+      Spécialité Terminale : coursterminale.md
+  - Méthodologie : methodologie.md
   - Un notebook jupyter : Notebook.ipynb
   # Référencer vos autres pages ci-dessus...
 
