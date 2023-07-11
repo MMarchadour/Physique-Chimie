@@ -18,5 +18,12 @@ Activité 1 : [Corps purs et mélanges](2Ch1P1_Activite1.pdf)
 
 #### Travaux Pratiques
 
-TP 1 : [Problème d'étiquettes](./cours/seconde/2Ch1P1_TP1.pdf) 
+TP 1 : [Problème d'étiquettes](./cours/seconde/2Ch1P1_TP1.pdf)
+
+TP 2 : [Stage dans l'agroalimentaire](./cours/seconde/2Ch1P1_TP2.pdf) 
+
+#### Fiche d'objectifs
+
+Objectifs du [chapitre 1](./cours/seconde/2Ch1P1_objectifs.pdf)
+
 
