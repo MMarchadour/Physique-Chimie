@@ -12,7 +12,7 @@ Cours complété
 
 #### Activité
 
-Activité 0 : [Sécurité en laboratoire](2Ch1P1_Activite0.pdf)
+Activité 0 : [Sécurité en laboratoire](./cours/seconde/2Ch1P1_Activite0.pdf)
 
 Activité 1 : [Corps purs et mélanges](2Ch1P1_Activite1.pdf)
 
